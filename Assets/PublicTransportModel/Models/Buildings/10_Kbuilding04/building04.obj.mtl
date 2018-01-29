@@ -1,0 +1,169 @@
+# File produced by Open Asset Import Library (http://www.assimp.sf.net)
+# (assimp v3.1.187496374)
+
+newmtl Default
+Kd 0.67451 0.576471 0.423529
+Ks 1 1 1
+Ke 0 0 0
+d 1
+illum 1
+
+newmtl gate
+Kd 0.784314 0.784314 0.784314
+Ks 1 1 1
+Ke 0 0 0
+d 0
+Ns 36
+illum 2
+map_Kd D:/korttelit/texture/portti.png
+map_d D://korttelit/texture/portti.png
+
+newmtl t1walkway1
+Kd 0.784314 0.784314 0.784314
+Ks 1 1 1
+Ke 0 0 0
+d 1
+illum 1
+
+newmtl t1walkway2
+Kd 0.392157 0.392157 0.392157
+Ks 1 1 1
+Ke 0 0 0
+d 1
+illum 1
+map_Kd D:/korttelit/texture/walkway.jpg
+bump D:/korttelit/texture/walkway_b.jpg
+map_bump D:/korttelit/texture/walkway_b.jpg
+
+newmtl t1walkway3
+Kd 0.359471 0.342353 0.287196
+Ks 1 1 1
+Ke 0 0 0
+d 1
+Ns 36
+illum 2
+
+newmtl t1walkway4
+Kd 0.32549 0.317647 0.25098
+Ks 1 1 1
+Ke 0 0 0
+d 1
+illum 1
+map_Kd D:/korttelit/texture/road1.jpg
+bump D:/korttelit/texture/road1_b.jpg
+map_bump D:/korttelit/texture/road1_b.jpg
+
+newmtl t4door
+Kd 0.690196 0.635294 0.52549
+Ks 1 1 1
+Ke 0 0 0
+d 1
+illum 1
+
+newmtl t4fill1
+Kd 0.308 0.244588 0.147961
+Ks 1 1 1
+Ke 0 0 0
+d 1
+Ns 36
+illum 2
+
+newmtl t4fill2
+Kd 0.652667 0.547961 0.394392
+Ks 1 1 1
+Ke 0 0 0
+d 1
+Ns 36
+illum 2
+
+newmtl t4fill3
+Kd 0.711529 0.563294 0.359059
+Ks 1 1 1
+Ke 0 0 0
+d 1
+illum 1
+
+newmtl t4fill4
+Kd 0.673529 0.673529 0.673529
+Ks 1 1 1
+Ke 0 0 0
+d 1
+Ns 36
+illum 2
+
+newmtl t4front1
+Kd 0.810471 0.664 0.367804
+Ks 1 1 1
+Ke 0 0 0
+d 1
+Ns 36
+illum 2
+map_Kd D:/korttelit/texture/talo4a.jpg
+bump D://korttelit/texture/talo4a.jpg
+map_bump D://korttelit/texture/talo4a.jpg
+
+newmtl t4front3
+Kd 0.784314 0.784314 0.784314
+Ks 1 1 1
+Ke 0 0 0
+d 1
+illum 1
+map_Kd D:///korttelit/texture/talo4a.jpg
+bump D:////korttelit/texture/talo4a.jpg
+map_bump D:////korttelit/texture/talo4a.jpg
+
+newmtl JoinedMaterial_#14
+Kd 0.369804 0.276549 0
+Ks 1 1 1
+Ke 0 0 0
+d 1
+Ns 38.44
+illum 2
+
+newmtl t4roof
+Kd 0.25098 0.25098 0.266667
+Ks 1 1 1
+Ke 0 0 0
+d 1
+illum 1
+map_Kd D://///korttelit/texture/talo4a.jpg
+
+newmtl t4stone1
+Kd 0.254902 0.25098 0.203922
+Ks 1 1 1
+Ke 0 0 0
+d 1
+illum 1
+
+newmtl t4zink1
+Kd 0.784314 0.784314 0.784314
+Ks 1 1 1
+Ke 0 0 0
+d 1
+illum 1
+map_Kd D://////korttelit/texture/talo4a.jpg
+
+newmtl t4zink2
+Kd 0.784314 0.784314 0.784314
+Ks 1 1 1
+Ke 0 0 0
+d 1
+illum 1
+map_Kd D:///////korttelit/texture/talo4a.jpg
+
+newmtl t4zink3
+Kd 0.784314 0.784314 0.784314
+Ks 1 1 1
+Ke 0 0 0
+d 1
+illum 1
+map_Kd D:////////korttelit/texture/talo4a.jpg
+
+newmtl t4zink4
+Kd 0.784314 0.784314 0.784314
+Ks 1 1 1
+Ke 0 0 0
+d 1
+illum 1
+map_Kd D://///////korttelit/texture/talo4a.jpg
+

@@ -1,0 +1,256 @@
+# File produced by Open Asset Import Library (http://www.assimp.sf.net)
+# (assimp v3.1.187496374)
+
+newmtl t9deco1
+Kd 0.784314 0.784314 0.784314
+Ks 1 1 1
+Ke 0 0 0
+d 1
+Ns 36
+illum 2
+map_Kd D:/korttelit/texture/talo09.jpg
+bump D://korttelit/texture/talo09.jpg
+map_bump D://korttelit/texture/talo09.jpg
+
+newmtl t9deco2
+Kd 0.784314 0.784314 0.784314
+Ks 1 1 1
+Ke 0 0 0
+d 1
+Ns 36
+illum 2
+map_Kd D:///korttelit/texture/talo09.jpg
+bump D:////korttelit/texture/talo09.jpg
+map_bump D:////korttelit/texture/talo09.jpg
+
+newmtl t9deco3
+Kd 0.784314 0.784314 0.784314
+Ks 1 1 1
+Ke 0 0 0
+d 1
+Ns 36
+illum 2
+map_Kd D://///korttelit/texture/talo09.jpg
+bump D://////korttelit/texture/talo09.jpg
+map_bump D://////korttelit/texture/talo09.jpg
+
+newmtl t9deco4
+Kd 0.784314 0.784314 0.784314
+Ks 1 1 1
+Ke 0 0 0
+d 1
+Ns 36
+illum 2
+map_Kd D:///////korttelit/texture/talo09.jpg
+bump D:////////korttelit/texture/talo09.jpg
+map_bump D:////////korttelit/texture/talo09.jpg
+
+newmtl t9door
+Kd 0.6 0.607843 0.643137
+Ks 1 1 1
+Ke 0 0 0
+d 1
+illum 1
+map_Kd D://///////korttelit/texture/talo09.jpg
+
+newmtl t9fence2
+Kd 0.370588 0.370588 0.370588
+Ks 0.494118 0.494118 0.494118
+Ke 0 0 0
+d 1
+Ns 7.84
+illum 2
+
+newmtl t9fill1
+Kd 0.632353 0.638235 0.326471
+Ks 0.843137 0.85098 0.435294
+Ke 0 0 0
+d 1
+Ns 7.84
+illum 2
+
+newmtl JoinedMaterial_#17
+Kd 0.552941 0.497059 0.408824
+Ks 0.737255 0.662745 0.545098
+Ke 0 0 0
+d 1
+Ns 7.84
+illum 2
+
+newmtl t9gate
+Kd 0.784314 0.784314 0.784314
+Ks 1 1 1
+Ke 0 0 0
+d 1
+illum 1
+map_Kd D://////////korttelit/texture/talo09.jpg
+
+newmtl t9lamp1
+Kd 0.27451 0.27451 0.27451
+Ks 1 1 1
+Ke 0 0 0
+d 1
+illum 1
+
+newmtl t9lamp2
+Kd 1 1 1
+Ks 1 1 1
+Ke 0 0 0
+d 1
+illum 1
+
+newmtl t9roof1
+Kd 0.341176 0.341176 0.341176
+Ks 1 1 1
+Ke 0 0 0
+d 1
+illum 1
+
+newmtl t9roof2
+Kd 0.286275 0.396078 0.321569
+Ks 1 1 1
+Ke 0 0 0
+d 1
+illum 1
+
+newmtl t9roof3
+Kd 0.117647 0.117647 0.117647
+Ks 1 1 1
+Ke 0 0 0
+d 1
+illum 1
+
+newmtl t9roofmini
+Kd 0.170431 0.122196 0.0546667
+Ks 1 1 1
+Ke 0 0 0
+d 1
+Ns 53.29
+illum 2
+map_Kd D:///////////korttelit/texture/talo09.jpg
+bump D:////////////korttelit/texture/talo09.jpg
+map_bump D:////////////korttelit/texture/talo09.jpg
+
+newmtl t9stone1
+Kd 0.308 0.308 0.308
+Ks 0.603922 0.603922 0.603922
+Ke 0 0 0
+d 1
+Ns 127.69
+illum 2
+
+newmtl t9stone2
+Kd 0.3 0.344118 0.444118
+Ks 0.4 0.458824 0.592157
+Ke 0 0 0
+d 1
+Ns 7.84
+illum 2
+
+newmtl t9stone4
+Kd 0.685294 0.647059 0.529412
+Ks 0.913725 0.862745 0.705882
+Ke 0 0 0
+d 1
+Ns 7.84
+illum 2
+
+newmtl t9wind1
+Kd 0.784314 0.784314 0.784314
+Ks 1 1 1
+Ke 0 0 0
+d 1
+Ns 36
+illum 2
+map_Kd D://///////////korttelit/texture/talo09.jpg
+bump D://////////////korttelit/texture/talo09.jpg
+map_bump D://////////////korttelit/texture/talo09.jpg
+
+newmtl t9wind2
+Kd 0.784314 0.784314 0.784314
+Ks 1 1 1
+Ke 0 0 0
+d 1
+Ns 36
+illum 2
+map_Kd D:///////////////korttelit/texture/talo09.jpg
+bump D:////////////////korttelit/texture/talo09.jpg
+map_bump D:////////////////korttelit/texture/talo09.jpg
+
+newmtl t9wind3
+Kd 0.784314 0.784314 0.784314
+Ks 1 1 1
+Ke 0 0 0
+d 1
+Ns 36
+illum 2
+map_Kd D://///////////////korttelit/texture/talo09.jpg
+bump D://////////////////korttelit/texture/talo09.jpg
+map_bump D://////////////////korttelit/texture/talo09.jpg
+
+newmtl t9wind4
+Kd 0.784314 0.784314 0.784314
+Ks 1 1 1
+Ke 0 0 0
+d 1
+Ns 36
+illum 2
+map_Kd D:///////////////////korttelit/texture/talo09.jpg
+bump D:////////////////////korttelit/texture/talo09.jpg
+map_bump D:////////////////////korttelit/texture/talo09.jpg
+
+newmtl t9wind5
+Kd 0.784314 0.784314 0.784314
+Ks 1 1 1
+Ke 0 0 0
+d 1
+Ns 36
+illum 2
+map_Kd D://///////////////////korttelit/texture/talo09.jpg
+bump D://////////////////////korttelit/texture/talo09.jpg
+map_bump D://////////////////////korttelit/texture/talo09.jpg
+
+newmtl t9wind6
+Kd 0.784314 0.784314 0.784314
+Ks 1 1 1
+Ke 0 0 0
+d 1
+Ns 36
+illum 2
+map_Kd D:///////////////////////korttelit/texture/talo09.jpg
+bump D:////////////////////////korttelit/texture/talo09.jpg
+map_bump D:////////////////////////korttelit/texture/talo09.jpg
+
+newmtl t9wind7
+Kd 0.784314 0.784314 0.784314
+Ks 1 1 1
+Ke 0 0 0
+d 1
+illum 1
+map_Kd D://///////////////////////korttelit/texture/talo09.jpg
+
+newmtl t9window1
+Kd 0.83 0.83 0.83
+Ks 1 1 1
+Ke 0 0 0
+d 1
+Ns 26.01
+illum 2
+
+newmtl t9window2
+Kd 0.344 0.320392 0.178745
+Ks 1 1 1
+Ke 0 0 0
+d 1
+Ns 36
+illum 2
+
+newmtl zink
+Kd 0.698039 0.698039 0.698039
+Ks 1 1 1
+Ke 0 0 0
+d 1
+Ns 36
+illum 2
+map_Kd D:/korttelit/texture/zinc01.jpg
+

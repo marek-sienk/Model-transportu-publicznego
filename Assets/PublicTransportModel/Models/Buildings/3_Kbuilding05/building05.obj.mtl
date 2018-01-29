@@ -1,0 +1,256 @@
+# File produced by Open Asset Import Library (http://www.assimp.sf.net)
+# (assimp v3.1.187496374)
+
+newmtl JoinedMaterial_#37
+Kd 0.784314 0.784314 0.784314
+Ks 1 1 1
+Ke 0 0 0
+d 1
+illum 1
+
+newmtl t1walkway2
+Kd 0.380392 0.388235 0.403922
+Ks 1 1 1
+Ke 0 0 0
+d 1
+illum 1
+map_Kd D:/korttelit/texture/walkway.jpg
+
+newmtl t1walkway3
+Kd 0.359471 0.342353 0.287196
+Ks 1 1 1
+Ke 0 0 0
+d 1
+Ns 36
+illum 2
+
+newmtl t1walkway4
+Kd 0.270588 0.270588 0.305882
+Ks 1 1 1
+Ke 0 0 0
+d 1
+illum 1
+map_Kd D:/korttelit/texture/road1.jpg
+
+newmtl t1walkway5
+Kd 0.32549 0.317647 0.25098
+Ks 1 1 1
+Ke 0 0 0
+d 1
+illum 1
+map_Kd D:/korttelit/texture/road1_r.jpg
+
+newmtl t5balcony1
+Kd 0.296471 0.329412 0.260235
+Ks 1 1 1
+Ke 0 0 0
+d 1
+Ns 36
+illum 2
+
+newmtl t5billboard1
+Kd 0.215686 0.301961 0.254902
+Ks 1 1 1
+Ke 0 0 0
+d 1
+illum 1
+
+newmtl t5billboard2
+Kd 0.168627 0.207843 0.235294
+Ks 1 1 1
+Ke 0 0 0
+d 1
+illum 1
+map_Kd D:/korttelit/texture/flyer1.jpg
+
+newmtl t5billboard3
+Kd 0.168627 0.207843 0.235294
+Ks 1 1 1
+Ke 0 0 0
+d 1
+illum 1
+map_Kd D:/korttelit/texture/flyer2.jpg
+
+newmtl t5glass1
+Kd 0.0659216 0.082 0.0932549
+Ks 1 1 1
+Ke 0 0 0
+d 1
+Ns 38.44
+illum 2
+
+newmtl t5roof1
+Kd 0.533333 0.384314 0.109804
+Ks 1 1 1
+Ke 0 0 0
+d 1
+illum 1
+
+newmtl t5sign
+Kd 0.438353 0.438353 0.438353
+Ks 1 1 1
+Ke 0 0 0
+d 1
+Ns 36
+illum 2
+
+newmtl t5sign2
+Kd 0 0 0
+Ks 1 1 1
+Ke 0 0 0
+d 1
+illum 1
+map_Kd D:/korttelit/texture/sign1.jpg
+
+newmtl t5sign3
+Kd 0.345098 0.345098 0.345098
+Ks 1 1 1
+Ke 0 0 0
+d 1
+illum 1
+map_Kd D:/korttelit/texture/sign3.jpg
+
+newmtl t5sign4
+Kd 0.690196 0.690196 0.690196
+Ks 1 1 1
+Ke 0 0 0
+d 1
+illum 1
+
+newmtl t5sign5
+Kd 0.709804 0.709804 0.709804
+Ks 1 1 1
+Ke 0 0 0
+d 1
+illum 1
+
+newmtl t5sign6
+Kd 0.411765 0.411765 0.411765
+Ks 1 1 1
+Ke 0 0 0
+d 1
+illum 1
+map_Kd D:/korttelit/texture/sign5.jpg
+
+newmtl t5sign7
+Kd 0.784314 0.784314 0.784314
+Ks 1 1 1
+Ke 0 0 0
+d 1
+illum 1
+map_Kd D:/korttelit/texture/sign4.jpg
+
+newmtl t5sign8
+Kd 0.784314 0.784314 0.784314
+Ks 1 1 1
+Ke 0 0 0
+d 1
+illum 1
+map_Kd D:/korttelit/texture/sign2.jpg
+
+newmtl t5stone
+Kd 0.199706 0.199706 0.18449
+Ks 1 1 1
+Ke 0 0 0
+d 1
+Ns 36
+illum 2
+
+newmtl t5stone2
+Kd 0.243451 0.194 0.140745
+Ks 1 1 1
+Ke 0 0 0
+d 1
+Ns 36
+illum 2
+
+newmtl t5stone3
+Kd 0.205412 0.197804 0.108412
+Ks 1 1 1
+Ke 0 0 0
+d 1
+Ns 36
+illum 2
+
+newmtl t5valtsu1
+Kd 0.784314 0.784314 0.784314
+Ks 1 1 1
+Ke 0 0 0
+d 1
+Ns 36
+illum 2
+map_Kd D:/korttelit/texture/valtsub.jpg
+
+newmtl t5valtsu2
+Kd 0.784314 0.784314 0.784314
+Ks 1 1 1
+Ke 0 0 0
+d 1
+Ns 36
+illum 2
+map_Kd D://korttelit/texture/valtsub.jpg
+
+newmtl t5valtsu3
+Kd 0.784314 0.784314 0.784314
+Ks 1 1 1
+Ke 0 0 0
+d 1
+Ns 36
+illum 2
+map_Kd D:/korttelit/texture/valtsu.jpg
+
+newmtl t5valtsu4
+Kd 0.784314 0.784314 0.784314
+Ks 1 1 1
+Ke 0 0 0
+d 1
+Ns 36
+illum 2
+map_Kd D://korttelit/texture/valtsu.jpg
+
+newmtl t5walkway6
+Kd 0.784314 0.784314 0.784314
+Ks 1 1 1
+Ke 0 0 0
+d 1
+illum 1
+map_Kd D:/korttelit/texture/walkway3.jpg
+
+newmtl t5wall1
+Kd 0.807843 0.67451 0.392157
+Ks 1 1 1
+Ke 0 0 0
+d 1
+Ns 67.24
+illum 2
+
+newmtl t5wall2
+Kd 0.878431 0.796078 0.619608
+Ks 1 1 1
+Ke 0 0 0
+d 1
+Ns 67.24
+illum 2
+
+newmtl t5wall3
+Kd 0.956863 0.929412 0.866667
+Ks 1 1 1
+Ke 0 0 0
+d 1
+Ns 67.24
+illum 2
+
+newmtl t5window1
+Kd 0.305882 0.215686 0.0862745
+Ks 1 1 1
+Ke 0 0 0
+d 1
+illum 1
+
+newmtl t5window2
+Kd 0.945098 0.890196 0.811765
+Ks 1 1 1
+Ke 0 0 0
+d 1
+illum 1
+
